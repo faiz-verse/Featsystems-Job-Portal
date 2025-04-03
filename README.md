@@ -9,12 +9,12 @@ The **Featsystems Job Portal** is designed to enable users to **apply for jobs o
 - The portal **is not yet functional**, as the bot responsible for processing job applications has not been assigned.  
 - Once automation is enabled, it will allow job seekers to submit applications, which will be processed by UiPath bots.  
 
-## 🔗 Learn More About UiPath Apps  
+### 🔗 Learn More About UiPath Apps  
 [UiPath Apps](https://docs.uipath.com/apps/) is a **drag-and-drop, low-code platform** that enables the creation of web-based applications powered by **UiPath automation workflows**. It allows users to build **interactive, front-end applications** that can seamlessly connect with UiPath processes.  
 
 📖 **Documentation:** [UiPath Apps Docs](https://docs.uipath.com/apps/)  
 
-## 📌 Features (Planned)  
+### 📌 Features (Planned)  
 ✔️ **User-friendly web interface** for job applications  
 ✔️ **Automated job application processing** using UiPath bots  
 ✔️ **Seamless integration** with UiPath Orchestrator  
